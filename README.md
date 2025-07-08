@@ -8,16 +8,6 @@ Welcome to the **Computer Vision & Image Processing** module. This repository is
 
 - Understand how images are represented in digital form.
 - Learn basic image processing operations using OpenCV and other libraries.
-- Explore techniques like filtering, edge detection, color space transformations, and thresholding.
-- Build a foundation for more advanced computer vision tasks (e.g., object detection, segmentation, etc.)
+- Explore techniques like transformations, noise, filtering, color space transformations, etc.
 
 ---
-
-## 📂 Folder Structure
-
-📁 computer-vision-basics/
-├── 📄 README.md
-├── 📁 images/ # Sample images for experiments
-├── 📁 notebooks/ # Jupyter notebooks for step-by-step learning
-├── 📁 outputs/ # Resulting images after processing
-└── 📄 requirements.txt # Required Python packages
